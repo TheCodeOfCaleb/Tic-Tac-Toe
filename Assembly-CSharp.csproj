@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CellController.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/user1/Documents/Programming/Game Development/Tic Tac Toe/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
